@@ -1,0 +1,13 @@
+{
+  "name": "TableDnD",
+  "version": "1.0.0",
+  "description": "TableDnD",
+  "main": "dist/jquery.tablednd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exchangegroup/TableDnD"
+  }
+}
