@@ -1,5 +1,5 @@
 {
-  "name": "jquery-tablednd",
+  "name": "jquery.tablednd",
   "version": "1.0.0",
   "description": "TableDnD",
   "main": "dist/jquery.tablednd.js",
